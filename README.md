@@ -45,3 +45,5 @@ dotnet build
 ```bash
 dotnet run
 ```
+
+Referencia interna: <https://github.com/tutosYTBandCourses/Challenge-project-foreach-if-array-CSharp-main>
