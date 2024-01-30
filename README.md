@@ -1,8 +1,9 @@
 # Aplicación de consola para tratar calificaciones de estudiantes
 
-> Este proyecto se trata de una simple aplicación de consola creada con el framework .NET
-> El objetivo de este proyecto es iniciar mi camino en el aprendizaje de C# y el marco de 
-> trabajo .NET-CORE.
+> Este proyecto se trata de una simple aplicación de consola creada con el framework dotNET.
+>
+> El objetivo de este proyecto es iniciar mi camino en el aprendizaje de **C#** y el marco de
+> trabajo **.NET-CORE**.
 > Los nombres y las notas de estudiantes se almacenan en arrays.
 > En el proyecto se hace uso de bucles `foreach` y sentencias `if-else`.
 

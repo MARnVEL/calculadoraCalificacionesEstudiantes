@@ -12,3 +12,4 @@ C:\xampp\htdocs\misReposPublicos\calculadoraCalificacionesEstudiantes\obj\Debug\
 C:\xampp\htdocs\misReposPublicos\calculadoraCalificacionesEstudiantes\obj\Debug\net8.0\calculadoraCalificacionesEstudiantes.pdb
 C:\xampp\htdocs\misReposPublicos\calculadoraCalificacionesEstudiantes\obj\Debug\net8.0\calculadoraCalificacionesEstudiantes.genruntimeconfig.cache
 C:\xampp\htdocs\misReposPublicos\calculadoraCalificacionesEstudiantes\obj\Debug\net8.0\ref\calculadoraCalificacionesEstudiantes.dll
+C:\xampp\htdocs\misReposPublicos\calculadoraCalificacionesEstudiantes\obj\Debug\net8.0\calculadoraCalificacionesEstudiantes.sourcelink.json
