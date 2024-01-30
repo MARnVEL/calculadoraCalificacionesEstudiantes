@@ -144,5 +144,5 @@ foreach (string nombre in nombresEstudiantes)
 }
 
 // requerido para ejecutar en VS Code (Mantiene las ventanas de salida abiertas para revisar los resultados)
-Console.WriteLine("\n\rPress the Enter key to continue");
+Console.WriteLine("\n\rPresione la tecla Enter para continuar");
 Console.ReadLine();
